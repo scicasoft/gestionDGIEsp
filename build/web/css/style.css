@@ -1,0 +1,33 @@
+body{margin:auto;width:80%;min-width:950px;background-color:#0a246a;color:#363636;font-family:'Trebuchet MS',Verdana,Tahoma,sans-serif;font-size:14px}
+#page{border-top: #22427C 2px solid;padding: 5px;padding-top: 0;width:100%;float:left;margin:auto;margin-top:0;margin-bottom:5px;-webkit-box-shadow:0 0 20px white;-moz-box-shadow:0 0 20px white;padding-bottom:10px;background-color:white}
+#logo{float: right}
+#menu{text-align:left;margin:0;margin-top:5px;padding:0;list-style:none}
+#menu li{display:inline}
+#menu li a{padding:5px 20px;margin:0;background:#EFEFEF;color:#22427C;text-decoration:none;-webkit-box-shadow:0 0 3px gray;-moz-box-shadow:0 0 3px gray}
+#menu li a:hover,#menu li a:focus{-webkit-box-shadow:0 0 5px #22427C;-moz-box-shadow:0 0 5px #22427C;text-shadow:0 1px 1px rgba(0,0,0,.3)}
+#pied{text-align: center; padding: 20px; color: white}
+h1, h2, h3, h4, h5, h6 {color:#22427C;text-shadow:0 2px 2px rgba(0,0,0,.3)}
+h1{font-size:25px}
+h2{font-size:20px}
+h3{font-size:15px}
+h5{font-size:12px}
+img{border:none}
+.groupe_bouton{padding-top:10px;text-align:right;border-top:1px solid silver;margin-bottom:0}
+.tableau_ligne:hover{background-color:#F0F0F0}
+.tableau{-webkit-box-shadow:0 0 5px gray;-moz-box-shadow:0 0 5px gray;margin-bottom:10px}
+.tableau th{height:20px;text-align:center;background-color:#22427C;color:white;text-shadow:0 1px 2px white;font-weight:normal;border-bottom:1px solid #15928E}
+.tableau td{height:30px;font-weight:normal;border-bottom:1px dotted #15928E}
+.field_with_errors{display:inline}
+#notice{color:green}
+.tableau th .current {padding-right: 17px;background-repeat: no-repeat;background-position: right center}
+a{text-decoration:none;color:#22427C;}
+a:hover{text-shadow:0 1px 1px rgba(0,0,0,.3)}
+.form_blog,.form_blog_1{padding:10px;padding-top:0;margin-bottom:20px}
+.form_blog{border:1px solid #9DD7D5;-webkit-box-shadow:2px 2px 5px #9DD7D5;-moz-box-shadow:2px 2px 5px #9DD7D5}
+.champ{width:100%;border:none;background-color:#EFEFEF;border:1px solid silver;color:black;padding:5px}
+.champ:focus{background-color:silver}
+#form_blog_titre{color:gray;margin-top:0;margin-bottom:0;font-style:italic;font-weight:normal}
+.blocs{float: left; width: 100%;margin-bottom: 10px}
+.blocg, .blocd {padding: 5px;padding-top: 0;min-height: 100px;width:48%;-webkit-box-shadow:0 0 4px rgba(0,0,0,.2);-moz-box-shadow:0 0 4px rgba(0,0,0,.2)}
+.blocg{float: left}
+.blocd{float: right}
